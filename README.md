@@ -38,18 +38,18 @@ The results are pretty fun to see! I'm attaching a few examples below. Kindly no
 
 Results from Part 1 (Projecting LiDAR onto Images): 
 
-
+![first_vid](videos/out.mp4)
 
 
 Results from Part 2 (Drawing 3D Bounding Boxes and keeping only points of interest): 
 
-
+![urban setting](videos/out_3.mp4)
 
 
 
 Results on a highway dataset: 
 
-
+![highway](videos/out_4.mp4)
 
 
 
