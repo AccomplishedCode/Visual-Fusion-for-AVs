@@ -42,7 +42,7 @@ Results from Part 1 (Projecting LiDAR onto Images):
 
 Results from Part 2 (Drawing 3D Bounding Boxes and keeping only points of interest): 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/lWc1fUdzAt4/0.jpg)](http://www.youtube.com/watch?v=OlWc1fUdzAt4 "urban!")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/lWc1fUdzAt4/0.jpg)](http://www.youtube.com/watch?v=lWc1fUdzAt4 "urban!")
 
 
 
