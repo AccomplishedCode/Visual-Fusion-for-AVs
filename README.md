@@ -36,3 +36,28 @@ The results are pretty fun to see! I'm attaching a few examples below. Kindly no
 
 [Bosch Research](https://urldefense.proofpoint.com/v2/url?u=https-3A__boschresearch.github.io_multimodalperception_dataset.html&d=DwMFaQ&c=slrrB7dE8n7gBJbeO0g-IQ&r=ZnIuaHadJD6IoVO0ugTNdQ&m=dT-OdSPL6ji2w03685zyuGTp8czh8nkX6nnpD71MD6Q&s=_QvWUH4w4VHagISyAhlF19wSNyvNGAG5VjxskSipr8k&e=)
 
+Results from Part 1 (Projecting LiDAR onto Images): 
+
+
+
+https://user-images.githubusercontent.com/40490288/126884981-a8340e27-fc2e-445e-9670-55cee4fe69c2.mp4
+
+Results from Part 2 (Drawing 3D Bounding Boxes and keeping only points of interest): 
+
+
+
+https://user-images.githubusercontent.com/40490288/126884996-a555cfe4-5f6c-41a5-a6b3-e9060b68824c.mp4
+
+
+Results on a highway dataset: 
+
+
+
+https://user-images.githubusercontent.com/40490288/126885003-f7345497-0907-46b5-97df-ce15ee29c3cd.mp4
+
+
+As you might see, the results are pretty good! The next step would be to use this algorithm in a more downstream task, and deploying it on a robot powered by a Raspberry Pi or an NVIDIA Jetson. That project coming up soon! 
+
+
+
+
