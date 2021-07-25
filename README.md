@@ -38,18 +38,17 @@ The results are pretty fun to see! I'm attaching a few examples below. Kindly no
 
 Results from Part 1 (Projecting LiDAR onto Images): 
 
-![first_vid](videos/out.mp4)
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Og17C8oSJuY/0.jpg)](http://www.youtube.com/watch?v=Og17C8oSJuY "Fusion!")
 
 Results from Part 2 (Drawing 3D Bounding Boxes and keeping only points of interest): 
 
-![urban setting](videos/out_3.mp4)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/lWc1fUdzAt4/0.jpg)](http://www.youtube.com/watch?v=OlWc1fUdzAt4 "urban!")
 
 
 
 Results on a highway dataset: 
-(https://www.youtube.com/embed/HX9XJiitiCI)
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/HX9XJiitiCI/0.jpg)](http://www.youtube.com/watch?v=HX9XJiitiCI "highway!")
 
 As you might see, the results are pretty good! The next step would be to use this algorithm in a more downstream task, and deploying it on a robot powered by a Raspberry Pi or an NVIDIA Jetson. That project coming up soon! 
 
