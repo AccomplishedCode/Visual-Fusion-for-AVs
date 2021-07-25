@@ -49,7 +49,7 @@ Results from Part 2 (Drawing 3D Bounding Boxes and keeping only points of intere
 
 Results on a highway dataset: 
 
-![highway](videos/out_4.mp4)
+![highway](https://youtu.be/HX9XJiitiCI)
 
 
 
