@@ -48,7 +48,7 @@ Results from Part 2 (Drawing 3D Bounding Boxes and keeping only points of intere
 
 
 Results on a highway dataset: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HX9XJiitiCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(<iframe width="560" height="315" src="https://www.youtube.com/embed/HX9XJiitiCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 
 As you might see, the results are pretty good! The next step would be to use this algorithm in a more downstream task, and deploying it on a robot powered by a Raspberry Pi or an NVIDIA Jetson. That project coming up soon! 
